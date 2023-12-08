@@ -4,15 +4,7 @@
 
 #version_001
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-Esto es el header
-
-</div></div>
-
+Header [[Web site/header\|header]]
 
 ### Experimental AI Design
 
@@ -20,11 +12,4 @@ Esto es el header
 Experimental AI designing & moving pixels 
 Playing with pixels and AI
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-Esto es el footer
-
-</div></div>
+Footer [[Web site/footer\|footer]]
