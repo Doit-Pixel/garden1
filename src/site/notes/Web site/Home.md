@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/web-site/home/","tags":["gardenEntry"]}
 ---
 
-Esta es la pagina principal de mi sitio
+Experimental AI designing & moving pixels 
+Playing with pixels and AI
