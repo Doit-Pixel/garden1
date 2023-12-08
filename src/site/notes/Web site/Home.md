@@ -4,7 +4,7 @@
 
 #version_001
 
-Header [[Web site/header\|header]]
+Header [[Web site/Resources/header\|header]]
 
 ### Experimental AI Design
 
@@ -12,4 +12,4 @@ Header [[Web site/header\|header]]
 Experimental AI designing & moving pixels 
 Playing with pixels and AI
 
-Footer [[Web site/footer\|footer]]
+Footer [[Web site/Resources/footer\|footer]]
