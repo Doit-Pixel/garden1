@@ -8,6 +8,7 @@ Header [[Resources/header\|header]]
 
 ### Experimental AI Design
 
+See graph from here [[Road Map.canvas|Road Map]]
 
 Experimental AI designing & moving pixels 
 Playing with pixels and AI
